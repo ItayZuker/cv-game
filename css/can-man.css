@@ -1,0 +1,17 @@
+.can-man-container {
+    width: 400px;
+    height: 500px;
+    overflow: hidden;
+    position: relative;
+    bottom: 500px;
+}
+
+.can-man {
+    width: 3600px;
+    height: 600px;
+    position: relative;
+}
+
+.left {
+    transform: scaleX(-1)
+}

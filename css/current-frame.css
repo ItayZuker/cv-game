@@ -1,0 +1,13 @@
+.current-frame {
+    width: 1200px;
+    height: 800px;
+    position: absolute;
+    bottom: 0px;
+    opacity: 0%;
+    z-index: -1;
+    transition: opacity 0.5s;
+}
+
+.appear {
+    opacity: 100%;
+}

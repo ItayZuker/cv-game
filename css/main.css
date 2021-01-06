@@ -1,0 +1,23 @@
+body {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+}
+
+.main-container {
+    width: 1200px;
+    height: 800px;
+    overflow: hidden;
+    position: absolute;
+}
+
+.background {
+    width: 4400px;
+    height: 800px;
+    position: relative;
+}
